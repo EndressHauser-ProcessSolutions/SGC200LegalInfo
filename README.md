@@ -5,7 +5,7 @@ This product contains software ("Open Source Software") that is provided to you 
 Software Component | License and copyright notice
 ------------ | -------------
 POCO 1.9.2 | [copyright](copyright_poco.txt)
-Content in the first column | Content in the second column
+libdl | [copyright](copyright_libdl.html)
 
 ### Markdown
 
