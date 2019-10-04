@@ -2,9 +2,9 @@
 Notices Related To Open Source Software
 This product contains software ("Open Source Software") that is provided to you under open source licenses. In the event of a conflict between the software license in the Endress+Hauser terms of use applicable to this product and the open source license applicable to such Open Source Software, the open source license will prevail with respect to that Open Source Software. Some open source licenses give you the right to obtain a copy of source code. You may obtain a copy of source code for Open Source Software licensed under such licenses by sending an e-mail to service.pcps@endress.com
 
-First Header | Second Header
+Software Component | License and copyright notice
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+POCO 1.9.2 | [copyright](url)
 Content in the first column | Content in the second column
 
 ### Markdown
